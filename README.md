@@ -9,9 +9,11 @@ Content of env.json
 
 env.json
 {
+
 	"database": "apis",
 	"username": "root",
 	"password": "",
 	"server": "localhost"
+	
 }
 
