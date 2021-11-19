@@ -7,12 +7,14 @@ These are the Boliler Plate code for an Basic API using php
 Content of env.json
 env.json
 
-[
+...
 
+[
 	"database": "apis",
 	"username": "root",
 	"password": "",
 	"server": "localhost"
-	
 ]
+
+...
 
